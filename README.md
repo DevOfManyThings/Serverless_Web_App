@@ -1,2 +1,2 @@
 # Serverless_Experiment
-Experimenting with aws lambda functions to render react pages
+Experimenting and benchamrking costs following aws tutorial for serverless web app: https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
